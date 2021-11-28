@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\oxeae\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\oxeae\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Test game.644375465.00" t="ExcludeRecursive" />
+    <e p="C:\Users\oxeae\Test game" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="code" t="Include">
+          <e p="EnemyScript" t="Include">
+            <e p="EnemyAI.cs" t="Include" />
+            <e p="SpawnAI.cs" t="Include" />
+            <e p="SpawnScript.cs" t="Include" />
+          </e>
+          <e p="objcode" t="Include">
+            <e p="CamPos.cs" t="Include" />
+            <e p="DoorScript.cs" t="Include" />
+            <e p="FlashlightPos.cs" t="Include" />
+          </e>
+          <e p="playerScript" t="Include">
+            <e p="HealthBar.cs" t="Include" />
+            <e p="MapOpen.cs" t="Include" />
+            <e p="playercontroller.cs" t="Include" />
+            <e p="StaminaBar.cs" t="Include" />
+          </e>
+          <e p="PuzzleScript" t="Include">
+            <e p="Jigsaw" t="Include">
+              <e p="DragAndDrop.cs" t="Include" />
+              <e p="PiceseScript.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ScencScript" t="Include">
+            <e p="ScenceChange.cs" t="Include" />
+            <e p="SceneManagersUI.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="Test game.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

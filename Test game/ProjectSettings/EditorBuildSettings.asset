@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 24b9c40dd7c61fd44bf83aa9f876597c
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle.unity
+    guid: 08ff7dace8b7e7d4faba67fd2d61a3cb
+  - enabled: 1
+    path: Assets/Scenes/PrayRoomPuzzle.unity
+    guid: 5bae45e1965c34f40b7186691779c8fe
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: a4190bf7fd3d48e4cb76845b71a71ec9
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/ExitRoom.unity
+    guid: fb57528c4f8a55e4e882dc8b5861fc80
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: c1d2796bad3cb7643a362a06eb90524e
+  - enabled: 1
+    path: Assets/Scenes/Transition1.unity
+    guid: f0a66436ac15a2341a8187b1fabce433
+  - enabled: 1
+    path: Assets/Scenes/Transition2.unity
+    guid: 606bf42e8c1739042b099d65c0b802b5
+  m_configObjects: {}

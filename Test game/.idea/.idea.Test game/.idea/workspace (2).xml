@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e518513-4624-4604-947a-b7ca66b3f5c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/code/objcode/FlashlightPos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/code/ScencScript/ScenceChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/code/playerScript/MapOpen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/code/EnemyScript/SpawnScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/code/objcode/CamPos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/code/EnemyScript/EnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/code/EnemyScript/SpawnAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.6.10/Runtime/Behaviours/CinemachineVirtualCamera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@10.5.1/Editor/2D/Renderer2DUpgrader.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/code/playercontroler/Stamina.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/playercontroler/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/playercontroler/CharacterController.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/objcode/DoorScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/playercontroler/StaminaBar.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/playercontroler/playercontroller.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/playercontroler/HealthBar.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/PuzzleScript/DragAndDrop.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/PuzzleScript/Jigsaw/PiceScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/PuzzleScript/Jigsaw/DragAndDrop.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/ScencScript/ToMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/ScencScript/StartGame.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/ScencScript/ContinueButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/ScencScript/MenuScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/PuzzleScript/Jigsaw/PiceseScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/ScencScript/StartButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/ScencScript/HideUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/playerScript/StaminaBar.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/objcode/FlashlightPos.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/objcode/CamPos.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/HideFromEnemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/objcode/Hide.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/EnemyScript/Spawnsystem/SpawnAI.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/ScencScript/ScenceChange.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/EnemyScript/SpawnAI.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/EnemyScript/SpawnScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/EnemyScript/EnemyAI.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/playerScript/MapOpen.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/playerScript/HealthBar.cs" />
+      <option value="$PROJECT_DIR$/Assets/code/playerScript/playercontroller.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1xuhgeOYE4lCstSTIkizziIIZ09" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e518513-4624-4604-947a-b7ca66b3f5c5" name="Default Changelist" comment="" />
+      <created>1631210995560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631210995560</updated>
+      <workItem from="1631210999493" duration="1000" />
+      <workItem from="1631211039080" duration="2578000" />
+      <workItem from="1631214034606" duration="347000" />
+      <workItem from="1631625040127" duration="5298000" />
+      <workItem from="1631687391084" duration="6076000" />
+      <workItem from="1632322088713" duration="4809000" />
+      <workItem from="1632379877606" duration="3438000" />
+      <workItem from="1632391570335" duration="1782000" />
+      <workItem from="1632393436671" duration="4317000" />
+      <workItem from="1632405330178" duration="3760000" />
+      <workItem from="1632489734291" duration="2671000" />
+      <workItem from="1634053748680" duration="8811000" />
+      <workItem from="1634140251260" duration="5353000" />
+      <workItem from="1634149929390" duration="951000" />
+      <workItem from="1634227273206" duration="12336000" />
+      <workItem from="1634244197241" duration="1539000" />
+      <workItem from="1634329591146" duration="2813000" />
+      <workItem from="1634361958581" duration="600000" />
+      <workItem from="1634834890201" duration="6979000" />
+      <workItem from="1635523253065" duration="18974000" />
+      <workItem from="1636131492765" duration="603000" />
+      <workItem from="1636140183507" duration="6217000" />
+      <workItem from="1636181556865" duration="1201000" />
+      <workItem from="1637258683055" duration="1552000" />
+      <workItem from="1637688394616" duration="4247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
